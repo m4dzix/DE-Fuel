@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DE-Fuel/static/css/main.e6c13ad2.css",
+    "main.js": "/DE-Fuel/static/js/main.5bbaf9fe.js",
+    "static/js/453.ad8c3bee.chunk.js": "/DE-Fuel/static/js/453.ad8c3bee.chunk.js",
+    "index.html": "/DE-Fuel/index.html",
+    "main.e6c13ad2.css.map": "/DE-Fuel/static/css/main.e6c13ad2.css.map",
+    "main.5bbaf9fe.js.map": "/DE-Fuel/static/js/main.5bbaf9fe.js.map",
+    "453.ad8c3bee.chunk.js.map": "/DE-Fuel/static/js/453.ad8c3bee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5bbaf9fe.js"
+  ]
+}
